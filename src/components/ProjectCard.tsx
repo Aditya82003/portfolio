@@ -1,5 +1,4 @@
 import { FC } from "react"
-import DotBackgroundDemo from "./ui/DottedBackground"
 import { cn } from "@/lib/utils"
 import { FiGithub } from "react-icons/fi"
 import { GlowingEffect } from "./ui/GlowingEffext"

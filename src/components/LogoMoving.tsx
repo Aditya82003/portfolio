@@ -3,7 +3,7 @@ import React from 'react'
 import { RiReactjsFill, RiTailwindCssFill } from 'react-icons/ri'
 import { motion } from 'motion/react'
 import { DiJavascript1, DiMongodb, DiNodejs } from 'react-icons/di'
-import { SiExpress, SiMongoosedotws, SiTypescript } from 'react-icons/si'
+import { SiExpress, SiTypescript } from 'react-icons/si'
 import { FiFigma } from 'react-icons/fi'
 
 const LogoMoving = () => {
